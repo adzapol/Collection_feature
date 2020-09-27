@@ -1,0 +1,28 @@
+{
+  "name": "site",
+  "version": "0.0.1",
+  "description": "Adaptive website with the sale of watches.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adzapol/Porten_03.git"
+  },
+  "keywords": [
+    "website",
+    "page"
+  ],
+  "author": "adZapol13",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adzapol/Porten_03/issues"
+  },
+  "homepage": "https://github.com/adzapol/Porten_03#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}
